@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\neera\\source\\repos\\kernel.ai\\kernel.ai\\kernel.ai.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\neera\\source\\repos\\kernel.ai\\kernel.ai\\kernel.ai.csproj": {
+      "version": "0.1.0-localbuild",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\neera\\source\\repos\\kernel.ai\\kernel.ai\\kernel.ai.csproj",
+        "projectName": "kernel.ai",
+        "projectPath": "C:\\Users\\neera\\source\\repos\\kernel.ai\\kernel.ai\\kernel.ai.csproj",
+        "packagesPath": "C:\\Users\\neera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neera\\source\\repos\\kernel.ai\\kernel.ai\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\neera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Users\\neera\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ci.appveyor.com/nuget/cosmos-common": {},
+          "https://ci.appveyor.com/nuget/il2cpu": {},
+          "https://ci.appveyor.com/nuget/xsharp": {},
+          "https://www.myget.org/F/cosmos/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Cosmos.Build": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.Debug.Kernel": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.System2": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.9, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "cosmos": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
