@@ -1,0 +1,9 @@
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\bin\Debug\netcoreapp2.0\cosmos\kernel.ai.deps.json
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\bin\Debug\netcoreapp2.0\cosmos\kernel.ai.dll
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\bin\Debug\netcoreapp2.0\cosmos\kernel.ai.pdb
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\obj\Debug\netcoreapp2.0\cosmos\kernel.ai.csprojAssemblyReference.cache
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\obj\Debug\netcoreapp2.0\cosmos\kernel.ai.AssemblyInfoInputs.cache
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\obj\Debug\netcoreapp2.0\cosmos\kernel.ai.AssemblyInfo.cs
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\obj\Debug\netcoreapp2.0\cosmos\kernel.ai.csproj.CoreCompileInputs.cache
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\obj\Debug\netcoreapp2.0\cosmos\kernel.ai.dll
+C:\Users\neera\source\repos\kernel.ai\kernel.ai\obj\Debug\netcoreapp2.0\cosmos\kernel.ai.pdb
